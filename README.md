@@ -24,7 +24,6 @@ Execute the programs and publish them.
 
 ## CODE
 
-bus.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,7 +48,7 @@ Tirukoilur also spelt as Tirukkoyilur or Tirukovilur is a city and the headquart
 </body>
 </html>
 
-lake.html
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -75,7 +74,7 @@ lake is the body of water that is surrounded by land. There are millions of lake
 </html>
 
 
-river.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,7 +99,7 @@ En route, its chief tributaries are the Chinnar (Markanda nadhi), Vaniyar and Pa
 </body>
 </html>
 
-SVMSS.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,7 +125,7 @@ Student strength of the school at the time of starting was four hundred students
 
 
 
-temple.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
