@@ -25,7 +25,7 @@ Execute the programs and publish them.
 ## CODE
 
 
-
+```
 <html lang="en">
 <head>
 <title>Bus Stand</title>
@@ -136,7 +136,7 @@ Periya Yeri<font color="blue"><b></b></font>
 </p>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![out1](https://github.com/Nandhinijaya/NearMe/assets/121998147/01fbf95b-803c-4894-98c8-34f6a4afa770)
 
