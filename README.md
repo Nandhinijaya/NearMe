@@ -25,7 +25,7 @@ Execute the programs and publish them.
 ## CODE
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>Bus Stand</title>
@@ -50,7 +50,7 @@ Tirukoilur also spelt as Tirukkoyilur or Tirukovilur is a city and the headquart
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>Eco-Park</title>
@@ -75,7 +75,7 @@ lake is the body of water that is surrounded by land. There are millions of lake
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>RTO Office</title>
@@ -100,7 +100,7 @@ En route, its chief tributaries are the Chinnar (Markanda nadhi), Vaniyar and Pa
 </html>
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>Sri Vidhya Mandir Senior Higher Secondary School</title>
@@ -126,7 +126,7 @@ Student strength of the school at the time of starting was four hundred students
 
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>Ulagalanda Perumal Temple</title>
