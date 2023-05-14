@@ -23,34 +23,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>My City</title>
-</head>
-<body>
-<h1 align="center">
-<font color="red"><b>Villupuram Agro Based Industry</b></font>
-</h1>
-<h3 align="center">
-<font color="blue"><b>E.Nandhini 212222100030</b></font>
-</h3>
-<center>
-<img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
-<map name="MyCity">
-<area shape="circle" coords="190,50,20" href="/static/html/lake.html" title="Periya Yeri">
-<area shape="rectangle" coords="230,30,260,60" href="/static/html/SVMSS.html" title="Sri Vidhya Mandir Senior Secondary School">
-<area shape="circle" coords="400,350,50" href="/static/html/river.html" title="Then pennai river">
-<area shape="circle" coords="400,200,75" href="/static/html/bus.html" title="Tirukovilur Bus Stand">
-<area shape="rectangle" coords="490,150,870,320" href="/static/html/temple.html" title="Shri Ulagalantha Perumal Temple">
-</map>
-</center>
-</body>
-</html>
-
-
-
 
 bus.html
 
